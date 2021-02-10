@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Core.dll
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Infrastructure.dll
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Core.pdb
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Application.deps.json
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Application.dll
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Application.pdb
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\bin\Debug\netstandard2.0\Ordering.Infrastructure.pdb
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.csproj.CopyComplete
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.dll
+C:\Users\User\Desktop\Microservice Course\MicroserviceApp\src\Ordering\Ordering.Application\obj\Debug\netstandard2.0\Ordering.Application.pdb
